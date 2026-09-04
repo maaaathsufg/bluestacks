@@ -11,4 +11,4 @@
 5. Выбрать версию Android: Nougat 32-bit (Large virtual address) - Deprecated 
 6. Запустите это окно которое создали, можно играть. 
 
-ADB - не нужен.
+ADB - не нужен
